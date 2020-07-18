@@ -1,4 +1,4 @@
-# Assignment-2-Final-
+# Assignment-2-Final
 Program Code 9 DNN
 from keras.layers import Activation
 model = Sequential()
